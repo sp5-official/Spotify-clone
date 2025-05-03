@@ -3,7 +3,7 @@
 This is a **Spotify Frontend Clone** built using only **HTML** and **CSS**.
 The project replicates the user interface of Spotify's web player, focusing on the design and layout to create a visually appealing and responsive experience.
 
-🌐 **Live Project**: https://sp5-official.github.io/Spotify-Clone/
+🌐 **Live Project**: https://sp5-official.github.io/Spotify-clone/
 
 ## Features
 
